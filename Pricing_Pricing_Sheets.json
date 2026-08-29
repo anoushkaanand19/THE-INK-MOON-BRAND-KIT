@@ -1,0 +1,247 @@
+{
+  "currency": "INR",
+  "gst_rate": 0.05,
+  "shipping": "charged_at_actuals",
+  
+  "commission_pricing": {
+    "customized_existing_artwork": {
+      "description": "Adapt current pieces to specific vision (color adjustments, text addition, compositional edits)",
+      "min": 5000,
+      "max": 15000,
+      "currency": "INR",
+      "includes": [
+        "Adjustments to colour palettes",
+        "Addition of text or initials",
+        "Compositional edits",
+        "Two free edits per piece"
+      ],
+      "note": "Price depends on complexity of changes"
+    },
+    "brand_new_artwork": {
+      "description": "Completely original creation with concept development and full flexibility",
+      "min": 10000,
+      "max": 25000,
+      "currency": "INR",
+      "includes": [
+        "Concept development based on brief",
+        "Full flexibility of design",
+        "Complete branding/logo integration",
+        "Two free edits per piece"
+      ],
+      "note": "Final fee depends on complexity of artwork. Separate from print & packaging costs"
+    }
+  },
+
+  "paper_print_pricing": {
+    "material": "170 GSM fine art cotton paper",
+    "description": "Matte finish, archival quality, requires glass framing",
+    "square_1_1": {
+      "10x10": {
+        "rolled_frameless": 650,
+        "wood_look_frame_glass": 2050,
+        "real_wood_frame_glass": 3050
+      },
+      "12x12": {
+        "rolled_frameless": 750,
+        "wood_look_frame_glass": 3250,
+        "real_wood_frame_glass": 3150
+      },
+      "16x16": {
+        "rolled_frameless": 1300,
+        "wood_look_frame_glass": 3850,
+        "real_wood_frame_glass": 4800
+      },
+      "20x20": {
+        "rolled_frameless": 1600,
+        "wood_look_frame_glass": 4450,
+        "real_wood_frame_glass": 5100
+      },
+      "24x24": {
+        "rolled_frameless": 2050,
+        "wood_look_frame_glass": 4800,
+        "real_wood_frame_glass": 6800
+      },
+      "30x30": {
+        "rolled_frameless": 3500,
+        "wood_look_frame_glass": 10400,
+        "real_wood_frame_glass": 9600
+      },
+      "36x36": {
+        "rolled_frameless": 5100,
+        "wood_look_frame_glass": 12500,
+        "real_wood_frame_glass": 13500
+      }
+    },
+    "rectangle_3_4": {
+      "9x12": {
+        "rolled_frameless": 650,
+        "wood_look_frame_glass": 2050,
+        "real_wood_frame_glass": 3050
+      },
+      "12x16": {
+        "rolled_frameless": 950,
+        "wood_look_frame_glass": 2850,
+        "real_wood_frame_glass": 3900
+      },
+      "15x20": {
+        "rolled_frameless": 1150,
+        "wood_look_frame_glass": 4250,
+        "real_wood_frame_glass": 4650
+      },
+      "18x24": {
+        "rolled_frameless": 1900,
+        "wood_look_frame_glass": 5250,
+        "real_wood_frame_glass": 6000
+      },
+      "24x32": {
+        "rolled_frameless": 2850,
+        "wood_look_frame_glass": 8100,
+        "real_wood_frame_glass": 8200
+      },
+      "21x36": {
+        "rolled_frameless": 4200,
+        "wood_look_frame_glass": 10500,
+        "real_wood_frame_glass": 11000
+      }
+    }
+  },
+
+  "canvas_print_pricing": {
+    "material": "280 GSM poly-cotton canvas",
+    "description": "Gallery-quality print, does not require glass framing",
+    "square_1_1": {
+      "10x10": {
+        "rolled_frameless": 1400,
+        "gallery_wrap": 2300,
+        "wood_look_frame": 3300,
+        "real_wood_frame": 4100
+      },
+      "12x12": {
+        "rolled_frameless": 1600,
+        "gallery_wrap": 2500,
+        "wood_look_frame": 3700,
+        "real_wood_frame": 4400
+      },
+      "16x16": {
+        "rolled_frameless": 2000,
+        "gallery_wrap": 3200,
+        "wood_look_frame": 4600,
+        "real_wood_frame": 5400
+      },
+      "20x20": {
+        "rolled_frameless": 2400,
+        "gallery_wrap": 3600,
+        "wood_look_frame": 5500,
+        "real_wood_frame": 5900
+      },
+      "24x24": {
+        "rolled_frameless": 3150,
+        "gallery_wrap": 6450,
+        "wood_look_frame": 8600,
+        "real_wood_frame": 9100
+      },
+      "30x30": {
+        "rolled_frameless": 5150,
+        "gallery_wrap": 7800,
+        "wood_look_frame": 11000,
+        "real_wood_frame": 11700
+      },
+      "36x36": {
+        "rolled_frameless": 7400,
+        "gallery_wrap": 10500,
+        "wood_look_frame": 13700,
+        "real_wood_frame": 14200
+      }
+    },
+    "rectangle_3_4": {
+      "9x12": {
+        "rolled_frameless": 1600,
+        "gallery_wrap": 2500,
+        "wood_look_frame": 3500,
+        "real_wood_frame": 3900
+      },
+      "12x16": {
+        "rolled_frameless": 1700,
+        "gallery_wrap": 2650,
+        "wood_look_frame": 3900,
+        "real_wood_frame": 4400
+      },
+      "15x20": {
+        "rolled_frameless": 1800,
+        "gallery_wrap": 3100,
+        "wood_look_frame": 4800,
+        "real_wood_frame": 5400
+      },
+      "18x24": {
+        "rolled_frameless": 2800,
+        "gallery_wrap": 4500,
+        "wood_look_frame": 6400,
+        "real_wood_frame": 7000
+      },
+      "24x32": {
+        "rolled_frameless": 4200,
+        "gallery_wrap": 6900,
+        "wood_look_frame": 9370,
+        "real_wood_frame": 10500
+      },
+      "21x36": {
+        "rolled_frameless": 5750,
+        "gallery_wrap": 8600,
+        "wood_look_frame": 11400,
+        "real_wood_frame": 12250
+      }
+    }
+  },
+
+  "bulk_discounts": {
+    "minimum_order": 25,
+    "description": "Discount based on total order size. Multiple different designs can be mixed and matched to avail the discount.",
+    "25_49": "5%",
+    "50_99": "10%",
+    "100_199": "15%",
+    "200_plus": "18%"
+  },
+
+  "available_sizes": {
+    "square_1_1": [
+      "10x10",
+      "12x12",
+      "16x16",
+      "20x20",
+      "24x24",
+      "30x30",
+      "36x36"
+    ],
+    "rectangle_3_4": [
+      "9x12",
+      "12x16",
+      "15x20",
+      "18x24",
+      "24x32",
+      "21x36"
+    ],
+    "custom": "Available on request"
+  },
+
+  "framing_options": {
+    "paper": [
+      "rolled_frameless",
+      "wood_look_frame_with_glass",
+      "real_wood_frame_with_glass"
+    ],
+    "canvas": [
+      "rolled_frameless",
+      "gallery_wrap",
+      "wood_look_frame",
+      "real_wood_frame"
+    ],
+    "frame_colors": [
+      "pine_finish",
+      "teak_finish"
+    ],
+    "frame_quality": [
+      "wood_look_synthetic_price_effective",
+      "real_wood_polished_gallery_finish"
+    ]
+  }
+}
